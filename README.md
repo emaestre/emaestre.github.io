@@ -1,4 +1,4 @@
-# Welcome to GitHub Pages
+# Welcome to my GitHub Page
 
 Hello! My name is Eleazar Maestre, and welcome to my personal site! for the moment this is a website in progress. You can contact me using my email or my LinkedIn.
 
