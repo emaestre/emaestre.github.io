@@ -2,7 +2,7 @@
 
 Hello! My name is Eleazar Maestre, and welcome to my personal site! for the moment this is a website in progress. You can contact me using my email or my LinkedIn.
 
-- Mail: eleazarenrique23@gmail.com
+- [eleazarenrique23@gmail.com](mailto:eleazarenrique23@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/eleazarmaestre)
 
 ## Work in Progress
