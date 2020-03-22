@@ -1,0 +1,8 @@
+---
+---
+
+// Overriding theme color variables
+$header-bg-color: #05a2ad !default;
+$header-bg-color-secondary: #074b8f !default;
+
+@import "{{ site.theme }}";
