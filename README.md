@@ -1,14 +1,15 @@
 # Welcome to my GitHub Page
 
-Hello! My name is Eleazar Maestre, and welcome to my personal site! for the moment this is a website in progress. You can contact me using my email or my LinkedIn.
+Hello! My name is Eleazar Maestre, and welcome to my personal site! I'm a Software Engineer that seeks to be better every day, I work with different technologies but JavaScript and Python are my favorite languages, you can see my GitHub [profile](https://github.com/emaestre) to see some of my work.
 
-- [eleazarenrique23@gmail.com](mailto:eleazarenrique23@gmail.com)
+For the moment this is a website in progress. You can contact me using my email or my LinkedIn.
+
+- [Mail](mailto:eleazarenrique23@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/eleazarmaestre)
 
 ## Work in Progress
 
 ```markdown
-- [ ] Upload my portfolio application
-- [ ] Create a blog site
-- [ ] Create a personal notes app
+- [ ] Create my portfolio application using ReactJS.
+- [ ] Modify the GitHub page to show the new porfolio.
 ```
