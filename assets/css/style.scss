@@ -5,10 +5,32 @@
 $header-bg-color: #05a2ad !default;
 $header-bg-color-secondary: #074b8f !default;
 $section-headings-color: #127ba5 !default;
+$linkedin-icon-color: #0077B5;
+$mail-icon-color: #C74D47;
 
 @import "{{ site.theme }}";
 
 .flex-container {
     display: flex;
     justify-content: center;
+}
+
+.linkedin-icon-container {
+    margin-right: 5px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+    color: $linkedin-icon-color;
+}
+
+.fa-envelope-square {
+    color: $mail-icon-color;
+}
+
+.mail-icon-container {
+    margin-left: 5px;
 }
