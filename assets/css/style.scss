@@ -7,3 +7,8 @@ $header-bg-color-secondary: #074b8f !default;
 $section-headings-color: #127ba5 !default;
 
 @import "{{ site.theme }}";
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
