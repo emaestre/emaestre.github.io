@@ -4,9 +4,6 @@ Hello! My name is Eleazar Maestre, and welcome to my personal site! I'm a Softwa
 
 For the moment this is a website in progress. You can contact me using my email or my LinkedIn.
 
-- [Mail](mailto:eleazarenrique23@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/eleazarmaestre)
-
 ## Work in Progress
 
 ```markdown
